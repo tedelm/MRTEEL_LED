@@ -16,6 +16,9 @@ Custom LED board for quadcopter
 </br>
 </br>
 
+# Proof of concept
+https://www.youtube.com/watch?v=T33xb17r22o
+
 # Parts list (Single board)
 1x MRTEEL_LED PCB</br>
 2x WS2812b</br>
