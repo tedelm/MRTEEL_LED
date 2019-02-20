@@ -39,10 +39,10 @@ And a set of 4 MRTEEL_LED running white will consume 480 mAh.</br>
 </br>
 
 # Luminous intensity
-RED: 390-420 mcd
-GREEN: 660-720 mcd
-BLUE: 180-200 mcd
-
+RED: 390-420 mcd</br>
+GREEN: 660-720 mcd</br>
+BLUE: 180-200 mcd</br>
+</br>
 
 # License
 Free to use but logo most be retained.
