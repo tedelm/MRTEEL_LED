@@ -17,7 +17,7 @@ Custom LED board for quadcopter
 </br>
 
 # Proof of concept
-https://www.youtube.com/watch?v=T33xb17r22o
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T33xb17r22o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Parts list (Single board)
 1x MRTEEL_LED PCB</br>
