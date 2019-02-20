@@ -36,8 +36,8 @@ GREEN: 3,0-3,4v ~20 mA (measured 13mA)</br>
 BLUE: 3,0-3,4v ~20 mA (measured 13mA)</br>
 WHITE: 5v? ~60 mA (Uses all colors) (measured 37mA)</br>
 </br>
-So a set of 4 MRTEEL_LED running pure color (Red,Green or Blue) will consume 160 mA.</br>
-And a set of 4 MRTEEL_LED running white will consume 480 mA.</br>
+So a set of 4 MRTEEL_LED running pure color (Red,Green or Blue) will consume 160 mA (Measured 104mA).</br>
+And a set of 4 MRTEEL_LED running white will consume 480 mA (Measured 296mA).</br>
 </br>
 
 # Luminous intensity
